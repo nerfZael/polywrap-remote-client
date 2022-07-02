@@ -12,3 +12,6 @@ w3
 
 # Logging
 *.log
+
+# Test
+coverage
