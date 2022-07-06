@@ -1,6 +1,6 @@
 {
   "name": "@nerfzael/polywrap-remote-client",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "bin/index.js",
   "types": "bin/index.d.ts",
   "author": "nerfZael",
