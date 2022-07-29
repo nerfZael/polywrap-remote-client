@@ -31,7 +31,7 @@ export class RemoteUriResolver extends UriResolver {
 
     const wrapper = new WasmWrapper(
       result.data.uri, 
-      deserializeWrapManifest(result.data.manifest), 
+      await deserializeWrapManifest(result.data.manifest), 
       result.data.resolver, 
       undefined
     );
